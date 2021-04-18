@@ -18,8 +18,6 @@ You should:
 
 * [Introduction](#intro-bullet)
 * [Description of the data](#descrip-bullet)
-* [Aim Of the study](#aim-bullet)
-* [Libraries used](#lib-bullet)
 
 -----
 
